@@ -1,5 +1,7 @@
 # 📊 Telco Customer Churn Prediction
 
+🔗 **[Try the Live App](https://telco-customer-churn-prediction-myfirstproject.streamlit.app)**
+
 A machine learning project that predicts customer churn for a telecom company using Random Forest and XGBoost — with a strong focus on identifying and eliminating **data leakage** to produce a realistic, production-honest model.
 
 ## 🎯 Project Overview
